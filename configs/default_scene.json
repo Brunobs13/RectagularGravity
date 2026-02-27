@@ -1,0 +1,11 @@
+{
+  "plane": {
+    "width": 80,
+    "height": 25
+  },
+  "rectangles": [
+    { "x": 8, "y": 15, "width": 8, "height": 4 },
+    { "x": 24, "y": 18, "width": 10, "height": 3 },
+    { "x": 44, "y": 12, "width": 12, "height": 5 }
+  ]
+}
